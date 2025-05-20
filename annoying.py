@@ -1,4 +1,4 @@
-import numpy
+import random
 name =''
 while name != 'your name':
     print ('Entre su nombre: ')
