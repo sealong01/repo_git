@@ -1,4 +1,4 @@
-import random
+import numpy
 name =''
 while name != 'your name':
     print ('Please type yoour name: ')
