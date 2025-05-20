@@ -1,7 +1,7 @@
 import numpy
 name =''
 while name != 'your name':
-    print ('Please type yoour name: ')
+    print ('Entre su nombre: ')
     name = input()
 
 print ('Thank you!')
