@@ -1,3 +1,4 @@
+import random
 name =''
 while name != 'your name':
     print ('Please type yoour name: ')
